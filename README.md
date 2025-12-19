@@ -104,6 +104,8 @@ The **Advanced Stock Price Forecasting Using a Hybrid Model of Numerical and Tex
 
 6. **Collaboration and Project Management**: The repository includes contributions from all team members with well-organized tasks, ensuring seamless collaboration and effective version control.
 
+Research Paper 📑: [Read the full paper](https://nodes.desci.com/node/cn3FPBDjIsVZ1YbWwyRKYL1qnhtmv-4c7Ic86iMFRko/researchinfo)
+
 ## Directory Structure
 
 ```markdown
@@ -156,14 +158,14 @@ The **Advanced Stock Price Forecasting Using a Hybrid Model of Numerical and Tex
 
 | Company                           | Description                                                                                     | Data Range           | Dataset Shape | Starting Stock Date | Current Stock Date | Starting Stock Price | Current Stock Price |
 |-----------------------------------|-------------------------------------------------------------------------------------------------|----------------------|---------------|---------------------|--------------------|----------------------|----------------------|
-| <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" height="40"> <br> Alphabet Inc. (Google) [GOOG] | Specializes in Internet-related services and products, including search engines, online advertising, and cloud computing. | 2014-03-27 : 2024-10-17 | (2659, 5) | 2014-03-27          | 2024-10-17         | $27.8542             | $164.51              |
-| <img src="https://pngimg.com/uploads/amazon/amazon_PNG5.png" height="40"> <br> Amazon.com Inc. [AMZN]    | Started as an online bookstore, now a leader in e-commerce and cloud computing through AWS. | 1997-05-16 : 2024-10-17 | (6901, 5) | 1997-05-16          | 2024-10-17         | $0.0863              | $187.53              |
-| <img src="https://th.bing.com/th/id/R.0ac491574e7ddb71dc2cab65a8bb501f?rik=5NzURUJ1L37UYg&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-apple-logologobrand-logoiconslogos-251519938788qhgdl.png&ehk=kQ%2bTI4imrP%2fg9UWIfehFMJOqAn1A3RQTROHV%2f1ORknk%3d&risl=&pid=ImgRaw&r=0" height="40"> <br> Apple Inc. [AAPL]   | Renowned for innovative consumer electronics, software, and services, including the iPhone and Mac computers. | 1980-12-12 : 2024-10-17 | (11053, 5) | 1980-12-12          | 2024-10-17         | $0.0992              | $232.15              |
+| <img src="https://github.com/madhurimarawat/Stock-Market-Prediction/blob/main/Codes/Historical_Data_Analysis/ML_Model_Codes/Logos/Google_Logo.jpg" height="40"> <br> Alphabet Inc. (Google) [GOOG] | Specializes in Internet-related services and products, including search engines, online advertising, and cloud computing. | 2014-03-27 : 2024-10-17 | (2659, 5) | 2014-03-27          | 2024-10-17         | $27.8542             | $164.51              |
+| <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Amazon-Emblema.png" height="40"> <br> Amazon.com Inc. [AMZN]    | Started as an online bookstore, now a leader in e-commerce and cloud computing through AWS. | 1997-05-16 : 2024-10-17 | (6901, 5) | 1997-05-16          | 2024-10-17         | $0.0863              | $187.53              |
+| <img src="https://www.pinclipart.com/picdir/big/210-2100125_apple-logo-png-transparent-svg-vector-apple-logo.png" height="40"> <br> Apple Inc. [AAPL]   | Renowned for innovative consumer electronics, software, and services, including the iPhone and Mac computers. | 1980-12-12 : 2024-10-17 | (11053, 5) | 1980-12-12          | 2024-10-17         | $0.0992              | $232.15              |
 | <img src="https://static.vecteezy.com/system/resources/previews/024/273/862/original/meta-logo-transparent-free-png.png" height="40"> <br> Meta Platforms [META] | Owner of Facebook, a global leader in social media and digital advertising. | 2012-05-18 : 2024-10-17 | (3124, 5) | 2012-05-18          | 2024-10-17         | $38.1174             | $576.93              |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="40"> <br> Microsoft Corp. [MSFT] | A leading developer of software, consumer electronics, and personal computers. | 1986-03-13 : 2024-10-17 | (9728, 5) | 1986-03-13          | 2024-10-17         | $0.0603              | $416.72              |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" height="40"> <br> Netflix Inc. [NFLX] | Global streaming entertainment service with a vast library of TV series and films. | 2002-05-23 : 2024-10-17 | (5640, 5) | 2002-05-23          | 2024-10-17         | $1.1964              | $687.65              |
 | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/235_Nvidia_logo-512.png" height="40"> <br> Nvidia Corp. [NVDA] | Specializes in graphics processing units and AI technology. | 1999-01-22 : 2024-10-17 | (6477, 5) | 1999-01-22          | 2024-10-17         | $0.0377              | $136.93              |
-| <img src="https://companieslogo.com/img/orig/TCS.NS-7401f1bd.png?t=1631949260" height="40"> <br> Tata Consultancy Services [TCS] | Leading global IT services, consulting, and business solutions provider. | 2013-11-01 : 2024-10-17 | (2758, 5) | 2013-11-01          | 2024-10-17         | $543.0               | $11.8                |
+| <img src="https://brandlogovector.com/wp-content/uploads/2022/10/TCS-Icon-Logo-PNG-300x190.png" height="40"> <br> Tata Consultancy Services [TCS] | Leading global IT services, consulting, and business solutions provider. | 2013-11-01 : 2024-10-17 | (2758, 5) | 2013-11-01          | 2024-10-17         | $543.0               | $11.8                |
 
 ---
 
@@ -282,7 +284,73 @@ Here's an overview of the Flask App:
 
 ## Meet the Team
 
-<table align="center"> <tr> <th> </th> <th><b>Madhurima Rawat</b></th> <th><b>Geetanshu Dev Meshram</b></th> <th><b>Sneha Jha</b></th> </tr> <tr> <td> <picture> <source srcset="https://static.vecteezy.com/system/resources/previews/024/405/365/original/briefcase-icon-isolated-white-background-png.png" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/briefcase.png" alt="Role"> </picture><br><b>Role</b> </td> <td>Project Planner & Developer</td> <td>Data Analyst & Backend Developer</td> <td>Data Analyst</td> </tr> <tr> <td> <picture> <source srcset="https://th.bing.com/th/id/R.51fd1b1a037d3506e3011c7e7ed4eac1?rik=mPdrhajb7jPGRQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVector-Checklist-PNG-HD-Image.png&ehk=aSGUnR6mAfLI4T9OBIVp401GHGukDxDPx9dgqshdTic%3d&risl=&pid=ImgRaw&r=0" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/task.png" alt="Responsibilities"> </picture><br><b>Responsibilities</b> </td> <td>Project planning, managing GitHub repo, docs, InfluxDB setup, Grafana dashboard, Streamlit & Flask, data viz & preprocessing</td> <td>Model building for numerical data, Flask app design</td> <td>Text data processing, model building, hybrid model creation</td> </tr> <tr> <td> <picture> <source srcset="https://wallpapers.com/images/hd/settings-gear-icon-green-background-dtf052nwbweqi6c4.jpg" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/settings.png" alt="Tools"> </picture><br><b>Tools</b> </td> <td>GitHub, InfluxDB, Grafana, Streamlit, Python, Flask, Pandas, Matplotlib, Plotly</td> <td>Python, Flask, ML libraries</td> <td>NLP libraries, ML libraries, hybrid modeling tools</td> </tr> <tr> <td> <picture> <source srcset="https://pngimg.com/uploads/github/github_PNG28.png" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"> </picture><br><b>GitHub</b> </td> <td><a href="https://github.com/madhurimarawat">GitHub</a></td> <td><a href="https://github.com/geetanshudev">GitHub</a></td> <td><a href="https://github.com/Sneha100802">GitHub</a></td> </tr> <tr> <td> <picture> <source srcset="https://clipground.com/images/club-med-logo-clipart-3.png" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn"> </picture><br><b>LinkedIn</b> </td> <td><a href="https://www.linkedin.com/in/madhurima-rawat/">LinkedIn</a></td> <td><a href="https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240/">LinkedIn</a></td> <td><a href="https://www.linkedin.com/in/sneha-jha-808796261/">LinkedIn</a></td> </tr> <tr> <td> <picture> <source srcset="https://www.freepnglogos.com/uploads/red-email-mail-logo-png-8.png" media="(prefers-color-scheme: dark)"> <img width="30" src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"> </picture><br><b>Email</b> </td> <td><a href="mailto:rawtamadhurima@gmail.com">Email</a></td> <td><a href="mailto:meshramgeetanshudev@gmail.com">Email</a></td> <td><a href="mailto:jhasneha344@gmail.com">Email</a></td> </tr> </table>
+<table align="center">
+    <tr>
+        <th> </th>
+        <th><b>Madhurima Rawat</b></th>
+        <th><b>Geetanshu Dev Meshram</b></th>
+        <th><b>Sneha Jha</b></th>
+    </tr>
+    <tr>
+        <td>
+            <img width="40"
+                src="https://static.vecteezy.com/system/resources/previews/014/179/581/large_2x/briefcase-icon-illustration-glyph-style-design-with-color-and-plus-sign-png.png"
+                alt="Role">
+            <br><b>Role</b>
+        </td>
+        <td>Project Planner & Developer</td>
+        <td>Data Analyst & Backend Developer</td>
+        <td>Data Analyst</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://th.bing.com/th/id/R.51fd1b1a037d3506e3011c7e7ed4eac1?rik=mPdrhajb7jPGRQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f5%2fVector-Checklist-PNG-HD-Image.png&ehk=aSGUnR6mAfLI4T9OBIVp401GHGukDxDPx9dgqshdTic%3d&risl=&pid=ImgRaw&r=0"
+                width="30" alt="Responsibilities">
+            <br><b>Responsibilities</b>
+        </td>
+        <td>Project planning, managing GitHub repo, docs, InfluxDB setup, Grafana dashboard, Streamlit & Flask, data viz
+            & preprocessing</td>
+        <td>Model building for numerical data, Flask app design</td>
+        <td>Text data processing, model building, hybrid model creation</td>
+    </tr>
+    <tr>
+        <td>
+            <img width="30"
+                src="https://wallpapers.com/images/hd/settings-gear-icon-green-background-dtf052nwbweqi6c4.jpg"
+                alt="Tools">
+            <br><b>Tools</b>
+        </td>
+        <td>GitHub, InfluxDB, Grafana, Streamlit, Python, Flask, Pandas, Matplotlib, Plotly</td>
+        <td>Python, Flask, ML libraries</td>
+        <td>NLP libraries, ML libraries, hybrid modeling tools</td>
+    </tr>
+    <tr>
+        <td>
+            <img width="30" src="https://pngimg.com/uploads/github/github_PNG28.png" alt="GitHub"><br><b>GitHub</b>
+        </td>
+        <td><a href="https://github.com/madhurimarawat">GitHub</a></td>
+        <td><a href="https://github.com/geetanshudev">GitHub</a></td>
+        <td><a href="https://github.com/Sneha100802">GitHub</a></td>
+    </tr>
+    <tr>
+        <td>
+            <img width="30" src="https://clipground.com/images/club-med-logo-clipart-3.png" alt="LinkedIn">
+            <br><b>LinkedIn</b>
+        </td>
+        <td><a href="https://www.linkedin.com/in/madhurima-rawat/">LinkedIn</a></td>
+        <td><a href="https://www.linkedin.com/in/geetanshu-dev-meshram-2b3b61240/">LinkedIn</a></td>
+        <td><a href="https://www.linkedin.com/in/sneha-jha-808796261/">LinkedIn</a></td>
+    </tr>
+    <tr>
+        <td>
+            <img width="30" src="https://www.freepnglogos.com/uploads/red-email-mail-logo-png-8.png" alt="Email">
+            <br><b>Email</b>
+        </td>
+        <td><a href="mailto:rawtamadhurima@gmail.com">Email</a></td>
+        <td><a href="mailto:meshramgeetanshudev@gmail.com">Email</a></td>
+        <td><a href="mailto:jhasneha344@gmail.com">Email</a></td>
+    </tr>
+</table>
 
 ---
 
