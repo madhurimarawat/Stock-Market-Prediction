@@ -346,7 +346,7 @@ Here's an overview of the Flask App:
             <img width="30" src="https://www.freepnglogos.com/uploads/red-email-mail-logo-png-8.png" alt="Email">
             <br><b>Email</b>
         </td>
-        <td><a href="mailto:rawtamadhurima@gmail.com">Email</a></td>
+        <td><a href="mailto:rawatmadhurima4@gmail.com">Email</a></td>
         <td><a href="mailto:meshramgeetanshudev@gmail.com">Email</a></td>
         <td><a href="mailto:jhasneha344@gmail.com">Email</a></td>
     </tr>
