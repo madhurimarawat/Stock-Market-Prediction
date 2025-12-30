@@ -14,7 +14,7 @@ def display_contact_information():
             "Tools": "GitHub, InfluxDB, Grafana, Streamlit, Python, Flask, Pandas, Matplotlib, Plotly",
             "GitHub": '<a href="https://github.com/madhurimarawat" target="_blank">GitHub</a>',
             "LinkedIn": '<a href="https://www.linkedin.com/in/madhurima-rawat/" target="_blank">LinkedIn</a>',
-            "Email": '<a href="mailto:rawtamadhurima@gmail.com" target="_blank">Email</a>',
+            "Email": '<a href="mailto:rawatmadhurima4@gmail.com" target="_blank">Email</a>',
             "Resume": '<a href="https://drive.google.com/file/d/1EYrjwt8p55lhdj78in0dio0IwTDdsPAL/view?usp=sharing" target="_blank">Resume</a>',
         },
         {
@@ -117,3 +117,4 @@ def display_contact_information():
 
     # Render the table
     st.markdown(html_table, unsafe_allow_html=True)
+
